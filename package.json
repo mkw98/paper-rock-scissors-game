@@ -30,6 +30,7 @@
   },
   "homepage": "https://github.com/mkw98/paper-rock-scissors-game#readme",
   "devDependencies": {
+    "mkdirp": "^0.5.1",
     "npm-run-all": "^4.1.3"
   }
 }
